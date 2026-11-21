@@ -45,4 +45,3 @@ Every operation—from cryptographic key derivation to configuration synthesis a
 * **Telegram Community Group:** [t.me/bermuda1998group](https://t.me/bermuda1998group)
 * **GitHub Repositories:** [github.com/Bermuda1998](https://github.com/Bermuda1998?tab=repositories)
 * **Direct Email:** `mr.bermuda1998@gmail.com`
-* **Community Q&A:** [GitHub Discussions](https://github.com/Bermuda1998/BERMUDA-PORTAL/discussions)
